@@ -311,6 +311,7 @@ Los resultados varían mucho entre dispositivos por:
 * temperatura y throttling
 * scheduler de Android
 * versión del runtime y optimizaciones
+* El código no está optimizado (hay que revisar el aliasing y la adaptación a las páginas de 16KB) porque debes realizarlo como actividad de clase (tema 2 y tema 3).
 
 Este proyecto está pensado para **aprender** y comparar de forma razonable, no como “benchmark definitivo”.
 
