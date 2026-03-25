@@ -13,7 +13,7 @@ Este repositorio contiene una app Android escrita en **Java + C (JNI)** cuyo obj
 El cálculo principal es un **stencil de 5 puntos** (kernel típico de HPC / cómputo numérico) sobre una matriz `N×N`.
 
 > ✅ Proyecto orientado a **benchmarking didáctico y reproducible**
-> ⚠️ No pretende ser un benchmark “científico” perfecto (temperatura, governor, afinidad CPU, etc. influyen muchísimo)
+> ⚠️ No pretende ser un benchmark “científico” perfecto (temperatura, afinidad CPU, etc. influyen muchísimo)
 
 ---
 
